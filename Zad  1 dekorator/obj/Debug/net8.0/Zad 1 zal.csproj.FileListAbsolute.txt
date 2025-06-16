@@ -1,0 +1,14 @@
+C:\Users\kacpe\source\repos\Zadanie1zal\Zad 1 zal\Zad 1 zal\bin\Debug\net8.0\Zad 1 zal.exe
+C:\Users\kacpe\source\repos\Zadanie1zal\Zad 1 zal\Zad 1 zal\bin\Debug\net8.0\Zad 1 zal.deps.json
+C:\Users\kacpe\source\repos\Zadanie1zal\Zad 1 zal\Zad 1 zal\bin\Debug\net8.0\Zad 1 zal.runtimeconfig.json
+C:\Users\kacpe\source\repos\Zadanie1zal\Zad 1 zal\Zad 1 zal\bin\Debug\net8.0\Zad 1 zal.dll
+C:\Users\kacpe\source\repos\Zadanie1zal\Zad 1 zal\Zad 1 zal\bin\Debug\net8.0\Zad 1 zal.pdb
+C:\Users\kacpe\source\repos\Zadanie1zal\Zad 1 zal\Zad 1 zal\obj\Debug\net8.0\Zad 1 zal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\source\repos\Zadanie1zal\Zad 1 zal\Zad 1 zal\obj\Debug\net8.0\Zad 1 zal.AssemblyInfoInputs.cache
+C:\Users\kacpe\source\repos\Zadanie1zal\Zad 1 zal\Zad 1 zal\obj\Debug\net8.0\Zad 1 zal.AssemblyInfo.cs
+C:\Users\kacpe\source\repos\Zadanie1zal\Zad 1 zal\Zad 1 zal\obj\Debug\net8.0\Zad 1 zal.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\source\repos\Zadanie1zal\Zad 1 zal\Zad 1 zal\obj\Debug\net8.0\Zad 1 zal.dll
+C:\Users\kacpe\source\repos\Zadanie1zal\Zad 1 zal\Zad 1 zal\obj\Debug\net8.0\refint\Zad 1 zal.dll
+C:\Users\kacpe\source\repos\Zadanie1zal\Zad 1 zal\Zad 1 zal\obj\Debug\net8.0\Zad 1 zal.pdb
+C:\Users\kacpe\source\repos\Zadanie1zal\Zad 1 zal\Zad 1 zal\obj\Debug\net8.0\Zad 1 zal.genruntimeconfig.cache
+C:\Users\kacpe\source\repos\Zadanie1zal\Zad 1 zal\Zad 1 zal\obj\Debug\net8.0\ref\Zad 1 zal.dll
