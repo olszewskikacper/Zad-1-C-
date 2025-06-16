@@ -1,0 +1,9 @@
+public enum PotionType
+{
+    ELIXIROFSORCERY,
+    CORRUPTION,
+    HEALING,
+    MANA,
+    ELIXIROFWRATH,
+    ELIXIROFIRON
+}
